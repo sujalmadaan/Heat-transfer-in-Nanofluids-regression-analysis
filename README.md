@@ -1,6 +1,6 @@
 # Heat Transfer in Nanofluids (TiO2-Water)
 
-This repository contains the term paper **"Heat Transfer in Nanofluids (TiO2-Water)"**, submitted to the **Indian Institute of Technology Delhi** in partial fulfillment of the requirements for the **Bachelor of Technology in Chemical Engineering**.
+This repository houses the research project "Heat Transfer in Nanofluids (TiO2-Water)", conducted as part of the academic curriculum at the Indian Institute of Technology Delhi, for the Bachelor of Technology in Chemical Engineering.
 
 ## Overview
 
